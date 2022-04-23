@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SeleniumAssignment": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Research & Development\" \"Russian\" 6"
+    }
+  }
+}
